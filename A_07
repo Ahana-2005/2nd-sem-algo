@@ -1,0 +1,9 @@
+//Write an algorithm for a program to check whether the sums of 2 arrays are same.
+1. Start.
+2. Input from user the value of n.
+3. 2 Array declarations of n size.
+4. Input elements for both the arrays.
+5. Calculate Sum1 by initializing the variable sum to 0 and for each index i from 0 to n-1, add the value of arr[i] to sum.
+6. Calculate Sum2 by initializing the variable sum to 0 and for each index i from 0 to n-1, add the value of brr[i] to sum.
+7. Check if the sum1 and sum2 are equal then print "The sum of the arrays are equal." else print "The sum of the arrays are not equal."
+8. End.
