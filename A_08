@@ -1,0 +1,10 @@
+//Write an algorithm for a C program to search a particular element in array.
+1. Start.
+2. Input from user the value of n.
+3. Array declaration of n size.
+4. Input elements.
+5. Input element to be searched.
+6. Search for the element by initializing a variable count to 0 and For each index i from 0 to n-1, if arr[i] is equal to a, print "Element found in index: i" and set count to 1.
+7. Break out of the loop.
+8. If count is 0, print "Element not found".
+9. End.
