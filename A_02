@@ -1,0 +1,9 @@
+//Write an algorithm for a C program to find the largest number of an array.
+1. Start.
+2. Input from user the value of n.
+3. Array declaration of n size.
+4. Input elements.
+5. Initialize largest element as arr[0].
+6. Find the largest element by checking for each index i from 1 to n-1 if arr[i] is greater than largest, update largest to arr[i].
+7. Print the value of the variable largest as output.
+8. End.
