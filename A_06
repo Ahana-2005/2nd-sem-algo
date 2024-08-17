@@ -1,0 +1,8 @@
+//Write an algorithm for a C program to check elements of 2 arrays are equal or not.
+1. Start.
+2. Input from user the value of n.
+3. 2 Arrays declaration of n size.
+4. Input elements.
+5. Compare arrays by initializing a variable count to 0 and for each index i from 0 to n-1, if arr[i] is not equal to brr[i], increment count by 1.
+6. Check Equality as if count is 0, print "The arrays are equal.", otherwise, print "The arrays are not equal."
+7. End.
