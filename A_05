@@ -1,0 +1,8 @@
+//Write an algorithm for a program in c to copy one array elements into another array.
+1. Start.
+2. Input from user the value of n.
+3. Array declaration of n size.
+4. Input elements.
+5. For each index i from 0 to n-1, copy the value from arr[i] to brr[i].
+6. Print the values of brr as output.
+7. End.
