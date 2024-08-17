@@ -1,0 +1,9 @@
+//Write an algorithm for a C program to find average of the elements in an array.
+1. Start.
+2. Input from user the value of n.
+3. Array declaration of n size.
+4. Input elements.
+5. Calculate Sum by initializing the variable sum to 0 and for each index i from 0 to n-1, add the value of arr[i] to sum.
+6. Calculate average by dividing sum by n and store it in avg.
+7. Print the avg as output.
+8. End
