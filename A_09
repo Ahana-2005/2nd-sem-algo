@@ -1,0 +1,13 @@
+//Write an algorithm for the program in C to find addition, subtraction, multiplication of 2D array.
+1. Start.
+2. Input from user the value of n.
+3. 2 Array declarations of n size.
+4. Input elements for 2 arrays.
+5. Compute matrix addition by checking for each index i from 0 to r-1 and for each index j from 0 to c-1, compute add[i][j] as the sum of a[i][j] and b[i][j].
+6. Print addition result add[i][j] by running a nested loop.
+7. Compute matrix subtraction by checking for each index i from 0 to r-1 and for each index j from 0 to c-1, compute sub[i][j] as the difference of a[i][j] and b[i][j].
+8. Print subtraction result sub[i][j] by running a nested loop.
+9. Compute matrix multiplication by checking for each index i from 0 to r-1 and for each index j from 0 to c-1, initialize mul[i][j] to 0.
+10. Then for each index k from 0 to c-1, compute mul[i][j] as the sum of the products a[i][k] * b[k][j].
+11. Print multiplication result mul[i][j] by running a nested loop.
+12. End.
