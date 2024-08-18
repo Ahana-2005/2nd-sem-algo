@@ -1,0 +1,12 @@
+//Write aan algorithm for a c program to delete one element from the array.
+1. 1. Start.
+2. Input from user the value of n.
+3. Array declaration of n size.
+4. Input elements in array.
+5. Input element to be deleted by the user.
+6. Find the element by initializing found to 0.
+7. Check for each index i from 0 to n-1, if arr[i] is equal to element then set found to 1, store the index i in pos and break out of the loop.
+8. Delete the element by checking if found is 1, for each index i from pos to n-2, move elements from i+1 to i (i.e., shift elements left by one position).
+9. Print the updated array excluding the last element.
+10. Else print a message indicating that the element was not found in the array.
+11. End.
