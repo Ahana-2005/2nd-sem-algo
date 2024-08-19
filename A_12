@@ -1,0 +1,9 @@
+//Write an algorithm c program to print all the negative numbers from an array.
+1. Start.
+2. Input from user the value of n.
+3. Array declaration of n size.
+4. Input elements.
+5. Find and print even elements by initializing a variable count to 0 and for each index i from 0 to n-1, check if arr[i] is less than 0 (i.e. arr[i]<0).
+6. Print arr[i] and increment count by 1.
+7. Check for even elements by checking if count is 0, print "There are no negative numbers".
+8. End.
