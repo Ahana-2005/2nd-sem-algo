@@ -1,0 +1,8 @@
+//Write an algorithm for c program to print the reverse of an array.
+1. Start.
+2. Input from user the value of n.
+3. Array declaration of n size.
+4. Input elements.
+5. Use a loop to iterate from 0 to n/2 - 1 to swap the element at the current index with the element at the corresponding index from the end of the array and the swap is done using a temporary variable temp.
+6. Print the Reversed Array.
+7. End.
