@@ -1,0 +1,9 @@
+//Write an algorithm for a c program to execute :-2,4,6,5
+//4,24,720,120.
+1. Start.
+2. Input from user the value of n.
+3. Array declaration of n size.
+4. Input elements.
+5. Calculate factorials by iterating over each index from 0 to n-1 and for each element arr[i], compute the factorial using the fact function and store the result in brr[i].
+6. Print brr[i] by a loop.
+7. End.
