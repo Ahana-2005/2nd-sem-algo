@@ -1,0 +1,8 @@
+//Write a C program to calculate the factorial of a given number using recursion.
+1. Start.
+2. Prompt the user to enter a number.
+3. Call the recursive function fact with a as the argument to compute the factorial.
+4. Base Case: If n is less than or equal to 1, return 1.
+Recursive Case: Otherwise, return n multiplied by the result of fact(n-1).
+5. Print the calculated factorial value stored in f.
+6. End.
