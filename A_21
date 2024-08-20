@@ -1,0 +1,9 @@
+//Write a C program to calculate the Fibonacci series using recursion.
+1. Start.
+2. Prompt the user to enter the limit for the number of Fibonacci numbers.
+3. Print the first two numbers of the Fibonacci sequence.
+4. Call the fib function with initial values 0 and 1, and the limit n-2.
+5. Base Case: If n is not greater than 0, return.
+Recursive Case: Calculate the next Fibonacci number as the sum of a and b.
+6. Print the new Fibonacci number.
+7. End.
