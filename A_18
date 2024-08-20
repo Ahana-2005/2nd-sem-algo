@@ -3,9 +3,8 @@
 2. Initialize the main function.
 3. Declare integer variables for input and result.
 4. Prompt the user to enter a number for which the factorial will be calculated.
-5. Read the number using scanf and store it in variable n.
-6. Check if the input number n is negative and if n is negative, print an error message indicating that factorials are not defined for negative numbers.
-7. Use a loop to iterate from 1 to the value pointed to by n then multiply *result by each integer in the loop to compute the factorial.
-8. Call the factorial function, passing the address of n and fact.
-9. Print the computed factorial.
-10. End.
+5. Check if the input number n is negative and if n is negative, print an error message indicating that factorials are not defined for negative numbers.
+6. Use a loop to iterate from 1 to the value pointed to by n then multiply *result by each integer in the loop to compute the factorial.
+7. Call the factorial function, passing the address of n and fact.
+8. Print the computed factorial.
+9. End.
