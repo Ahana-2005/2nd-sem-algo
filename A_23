@@ -1,0 +1,8 @@
+//Write a c program to add 2 arrays.
+1. Start.
+2. Input from user the value of n.
+3. 2 Array declarations of n size.
+4. Input elements.
+5. Compute the element-wise sum of arr and brr, storing the results in the sum array.
+6. Print the elements of the sum array, iterating over the range 0 to n-1.
+7. End.
