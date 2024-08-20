@@ -1,0 +1,7 @@
+//Write a C program to check a number is prime or not using function with pointer.
+1. Start.
+2. Initialize the main function and declare integer variables for the input number (n) and the result (p).
+3. Prompt the user to enter a number to check for primality.
+4. Initialize *isPrime to 1 and use a loop to test divisibility from 2 up to the square root of *n and if *n is divisible by any number i in this range (i.e., *n % i == 0), set *isPrime to 0 (not prime) and return.
+5. Call the checkPrime function, passing the address of n and p and print result.
+6. End.
