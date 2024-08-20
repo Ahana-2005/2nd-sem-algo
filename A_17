@@ -1,0 +1,9 @@
+//Write a C program to add between two numbers using function with pointers.
+1. Start.
+2. Prompt the user for two integers.
+3. Read the integers from user input.
+4. Pass the addresses of the integers to the addNumbers function.
+5. The function will calculate the sum of the two integers.
+6. The result will be stored in a variable pointed to by the third pointer.
+7. Print the result, displaying the two input integers and their sum.
+8. End.
