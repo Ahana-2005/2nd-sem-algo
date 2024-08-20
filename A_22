@@ -1,0 +1,8 @@
+//Write a C program to calculate the number of digits in a given number using recursion.
+1. Start.
+2. Prompt the user to enter a number.
+3. Call the dig function to compute the number of digits.
+4. Base Case: If n is 0, return 0.
+Recursive Case: Otherwise, divide n by 10 to remove the last digit, and add 1 to the result of the recursive call to dig.
+5. If the input number n is 0, directly print that the number of digits is 1, else print the result of the dig function.
+6. End.
